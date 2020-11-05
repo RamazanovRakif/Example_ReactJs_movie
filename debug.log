@@ -1,0 +1,6 @@
+[1021/194642.814:ERROR:file_io_win.cc(180)] CreateFile C:\Users\nurim_000\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Eriþim engellendi. (0x5)
+[1021/194642.820:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[1021/194642.824:ERROR:file_io_win.cc(180)] CreateFile C:\Users\nurim_000\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Eriþim engellendi. (0x5)
+[1021/211142.024:ERROR:file_io_win.cc(180)] CreateFile C:\Users\nurim_000\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Eriþim engellendi. (0x5)
+[1021/211142.034:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[1021/211142.037:ERROR:file_io_win.cc(180)] CreateFile C:\Users\nurim_000\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Eriþim engellendi. (0x5)
